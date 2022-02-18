@@ -2,7 +2,7 @@
 
 let map = L.map("map", {
   layers: MQ.mapLayer(),
-  center: [41.3111391, 69.2795927],
+  center: [41.3111391, 69.2795027],
   zoom: 14,
 });
 
